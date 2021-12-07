@@ -1,0 +1,11 @@
+c:\users\hp\documents\visual studio 2015\Projects\P5_2_1204022\P5_2_1204022_TestClock\bin\Debug\P5_2_1204022_TestClock.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\P5_2_1204022\P5_2_1204022_TestClock\bin\Debug\P5_2_1204022_TestClock.exe
+c:\users\hp\documents\visual studio 2015\Projects\P5_2_1204022\P5_2_1204022_TestClock\bin\Debug\P5_2_1204022_TestClock.pdb
+c:\users\hp\documents\visual studio 2015\Projects\P5_2_1204022\P5_2_1204022_TestClock\bin\Debug\P5_2_1204022.dll
+c:\users\hp\documents\visual studio 2015\Projects\P5_2_1204022\P5_2_1204022_TestClock\bin\Debug\P5_2_1204022.pdb
+c:\users\hp\documents\visual studio 2015\Projects\P5_2_1204022\P5_2_1204022_TestClock\obj\Debug\P5_2_1204022_TestClock.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\P5_2_1204022\P5_2_1204022_TestClock\obj\Debug\P5_2_1204022_TestClock.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\P5_2_1204022\P5_2_1204022_TestClock\obj\Debug\P5_2_1204022_TestClock.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\P5_2_1204022\P5_2_1204022_TestClock\obj\Debug\P5_2_1204022_TestClock.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\P5_2_1204022\P5_2_1204022_TestClock\obj\Debug\P5_2_1204022_TestClock.exe
+c:\users\hp\documents\visual studio 2015\Projects\P5_2_1204022\P5_2_1204022_TestClock\obj\Debug\P5_2_1204022_TestClock.pdb

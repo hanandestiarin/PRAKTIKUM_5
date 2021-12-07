@@ -1,0 +1,12 @@
+c:\users\hp\documents\visual studio 2015\Projects\P5_3_1204022\P5_3_1204022\bin\Debug\P5_3_1204022.exe.config
+C:\Users\HP\documents\visual studio 2015\Projects\P5_3_1204022\P5_3_1204022\bin\Debug\P5_3_1204022.exe
+C:\Users\HP\documents\visual studio 2015\Projects\P5_3_1204022\P5_3_1204022\bin\Debug\P5_3_1204022.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\P5_3_1204022\P5_3_1204022\obj\Debug\P5_3_1204022.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2015\Projects\P5_3_1204022\P5_3_1204022\obj\Debug\P5_3_1204022.Form1.resources
+C:\Users\HP\documents\visual studio 2015\Projects\P5_3_1204022\P5_3_1204022\obj\Debug\P5_3_1204022.Properties.Resources.resources
+C:\Users\HP\documents\visual studio 2015\Projects\P5_3_1204022\P5_3_1204022\obj\Debug\P5_3_1204022.csproj.GenerateResource.Cache
+C:\Users\HP\documents\visual studio 2015\Projects\P5_3_1204022\P5_3_1204022\obj\Debug\P5_3_1204022.exe
+C:\Users\HP\documents\visual studio 2015\Projects\P5_3_1204022\P5_3_1204022\obj\Debug\P5_3_1204022.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\P5_3_1204022\P5_3_1204022\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\HP\documents\visual studio 2015\Projects\P5_3_1204022\P5_3_1204022\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\P5_3_1204022\P5_3_1204022\obj\Debug\P5_3_1204022.CharTextBox.resources
